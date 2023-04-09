@@ -755,8 +755,7 @@ footer a:hover {
     margin-top: 16px;
   }
   .subheader_phone {
-    height: 25px;
-    font-size: 11px;
+    font-size: 12px;
     font-weight: 400;
     text-transform: uppercase;
     margin-top: 11px;
@@ -764,8 +763,8 @@ footer a:hover {
   .subheader_btn {
     margin-top: 6px;
     width: 110px;
-    height: 22px;
-    font-size: 10px;
+    height: 25px;
+    font-size: 9px;
   }
   .subheader_btn:hover {
     background-image: linear-gradient(to top, #1eacc7 0%, #4ce2ff 100%);
